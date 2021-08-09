@@ -1,5 +1,5 @@
 ## Management System
-리액트 공부 프로젝트 입니다.
+리액트 공부 프로젝트 입니다. ㅋㅋㅋ
 
 # Getting Started with Create React App
 
