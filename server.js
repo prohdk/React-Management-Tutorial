@@ -30,7 +30,7 @@ app.get('/api/customers', (req, res) => {
           'name': '평산이',
           'birthday': '891211',
           'gender': '남자',
-          'job': '개발자개발자'
+          'job': '개발자'
         }
       ]);
 });
